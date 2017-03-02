@@ -23,3 +23,8 @@ Here are short steps on how to connect to Weekly Talks community:
 - Go get invite at http://weekly-talks-slackin.herokuapp.com/
 - Follow link from email
 - You are in! Welcome to Weekly Talks community :tada:
+
+## Already in the team?
+
+Go to https://weekly-talks.slack.com directly or connect to `weekly-talks` team
+from desktop Slack client.
