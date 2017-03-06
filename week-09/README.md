@@ -64,6 +64,7 @@ Netduino и ESP8266. Вот некоторые из вещей, о которы�
 - https://en.wikipedia.org/wiki/NodeMCU
 - https://mongoose-os.com/ (ранее известная как Smart.js for ESP8266)
   - https://github.com/cesanta/mongoose-os
+- https://esp8266.ru/ - русское сообщество разработчиков на esp8266
 
 ## Slack digest
 
