@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Talks digest, week 10-11"
-<!--date: 2017-03-20 09:00:00 +0300-->
+date: 2017-03-20 09:00:00 +0300
 categories: weekly-talks digest
 ---
 
