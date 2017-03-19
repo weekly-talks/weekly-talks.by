@@ -1,4 +1,9 @@
-# Weekly Talks digest, week 9
+---
+layout: post
+title: "Weekly Talks digest, week 9"
+date: 2017-03-06 09:00:00 +0300
+categories: weekly-talks digest
+---
 
 February 27 - March 5
 
