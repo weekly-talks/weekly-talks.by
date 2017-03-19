@@ -1,3 +1,9 @@
+---
+layout: page
+title: Slack
+permalink: /how-to-slack/
+---
+
 # Как подключиться к Slack каналам Weekly Talks
 
 - Slack работает по приглашению, получить которое можно мгновенно на email

@@ -48,4 +48,4 @@ Weekly Talks Slack, или через почтовую рассылку.
 
 см. [Как подключиться к Slack каналам Weekly Talks][how-to-slack]
 
-[how-to-slack]: https://github.com/weekly-talks/digest/blob/master/how-to-slack.md
+[how-to-slack]: /how-to-slack/
