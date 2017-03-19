@@ -57,7 +57,7 @@ Slack сообщества Weekly Talks. Канал [#hardware][] являетс
 _Internet of things_, программирования микроконтроллеров, Arduino и иных
 устройств (см. [_Как подключиться к Slack каналам Weekly Talks_][how-to-slack]).
 
-[how-to-slack]: ../how-to-slack.md
+[how-to-slack]: /how-to-slack/
 
 ---
 
