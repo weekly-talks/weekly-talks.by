@@ -34,3 +34,19 @@
   Первый hollywar за последние лет эдак 10.
 
 - Куда вложиться ИТ компании и яйцеголовым айтишникам
+- Getting insights from data
+
+  Tools and path to deeper understanding.
+  
+- Web API design, implementation and operation
+- UX engineering after React Fiber
+- Programming practices, defensive offensive and everything in between
+- Security is about you
+
+  Exploit, admit, grok, deal with it.
+  
+- Ограничения в выборе фреймворка и библиотек
+- Study groups at Weekly Talks
+- Bootstrapping _Code for Grodno_
+
+  Framework presentation, ongoing projects and agenda.
