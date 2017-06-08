@@ -50,3 +50,12 @@
 - Bootstrapping _Code for Grodno_
 
   Framework presentation, ongoing projects and agenda.
+
+# Java branch
+
+- overview of new technologies
+  - Java 9, Stream API (`java.util.stream`), RxJava, Spring 5
+  - functional is eating Java too
+- architectural solutions and approaches enabled by new technologies
+  - typical tasks done the new way
+ 
